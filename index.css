@@ -1,0 +1,41 @@
+body
+{
+    margin: 0em;
+    font-family:cursive;
+    text-decoration: none;
+}
+div {
+    width: 200px;
+    height: 650px;
+    border: 15px solid rgb(128, 19, 0);
+    padding: 50px;
+    margin: auto;
+}
+div:hover{
+    border: 15px solid rgb(0, 128, 0);
+}
+
+
+#submit
+{
+    text-transform: uppercase;
+    margin-left: 3em;
+    margin-top: 3em;
+}
+.sk
+{
+    text-align: center;
+}
+.sk:hover
+{
+    text-transform: uppercase;
+}
+#address
+{
+    height: 5em;
+    width: 13em;
+}
+#bg
+{
+    position: absolute;
+}
